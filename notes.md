@@ -2,9 +2,8 @@
 These notes are summarized and excerpted from:
 https://github.com/swcarpentry/bc/tree/master/novice/git
 
-Version control is good because:
 
-## Overview
+## Why use Version Control
 * Nothing is ever lost, infinite undo
 * Scientific provenance, "What was the code when I wrote that paper?"
 * Who made what changes, where and when?
@@ -15,7 +14,7 @@ Version control is good because:
 ## What is git?
 * A **distributed** version control and source management system.
 * Similar to SVN, cvs and Mercurial etc, but different in key ways.
-
+* We teach git becaues it is becoming the defacto standard version control system.
 
 How do we use git?
 
