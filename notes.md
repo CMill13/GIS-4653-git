@@ -10,6 +10,8 @@ Version control is good because:
 * Who made what changes, where and when?
 * Hard to overwrite people's improvements
 
+![Why use Version Control](img/phd101212s.gif)
+
 ## What is git?
 * A **distributed** version control and source management system.
 * Similar to SVN, cvs and Mercurial etc, but different in key ways.
