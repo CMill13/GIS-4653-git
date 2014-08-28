@@ -1,6 +1,6 @@
 
 These notes are summarized and excerpted from:
-http://github.com/swcarpentry/bc/novice/git/
+https://github.com/swcarpentry/bc/tree/master/novice/git
 
 Version control is good because:
 
